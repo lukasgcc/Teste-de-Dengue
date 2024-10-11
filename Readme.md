@@ -1,0 +1,1 @@
+Um projeto desenvolvido como parte da avaliação da extensão da Faculdade UNA, intitulado "Algoritmos, Lógica e Programação Orientada a Objetos". Este projeto consiste na criação de um teste para detecção de dengue, utilizando os sintomas mais comuns associados à doença, com o objetivo de indicar se a pessoa está ou não infectada e avaliar a gravidade da condição.
